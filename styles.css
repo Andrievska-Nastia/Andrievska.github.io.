@@ -1,0 +1,140 @@
+body {
+	background-image: url(images5.jpg);
+	background-size: cover;
+}
+.h1 {
+	color: #33B6C7;
+	font-size: 60px;
+	font-family: Georgia;
+}
+
+.h2 { 
+	color: #33B6C7;
+	font-size: 50px;
+	font-family: Georgia;
+ }
+a {
+	font-size: 32px;
+	text-decoration: none;
+	font-style:italic;
+	text-align:center;
+}
+#history {
+	color: #3487DB;
+	background-color: #1F2712;
+
+}
+
+#history:hover {
+	background-color: #AC76B2;
+	color: #F3C80A;
+}
+
+#raster {
+	color: #ED7869;
+	background-color: #041D52;
+}
+#raster:hover {
+	background-color: #AC76B2;
+	color: #F3C80A;
+}
+
+#vector {
+	color: #EC50F1;
+	background-color: #4D3012;
+}
+#vector:hover {
+	background-color: #AC76B2;
+	color: #F3C80A;
+}
+
+#fractal {
+	color: #38DB6B;
+	background-color: #13240F;
+}
+
+#fractal:hover {
+	background-color: #AC76B2;
+	color: #F3C80A;
+}
+#d3 {
+	color: #2BF1EE;
+	background-color: #4F2823;
+}
+
+#d3:hover {
+	background-color: #AC76B2;
+	color: #F3C80A;
+}
+
+p {
+   color: #04D7DB;
+   font-size: 30px;
+   font-family: Roboto;
+}
+h3 {
+	 color: #14CAC7;
+   font-size: 40px;
+}
+
+.h1-app{
+	font-size: 50px;
+	color: #33B6C7;
+	font-family: Georgia;
+}
+ul {
+	color: #14CAC7;
+   font-size: 27px;
+}
+
+
+.span-b{
+	float: left;
+	background-color: #ccfccf;
+	padding: 1em;
+	margin-left: 1em;
+	margin-right: 1em;
+}
+
+.span-a{
+	float: right;
+	background-color: #ccfccf;
+	padding: 1em;
+	margin-left: 1em;
+	margin-right: 1em;
+}
+
+#Ana {
+	color: #F3C80A;
+   font-size: 26px;
+   font-family: Roboto;
+   text-align: right;
+}
+
+.links {
+    color: #2BF1EE;
+	background-color: #4F2823;	
+}
+
+.links:hover {
+	background-color: #AC76B2;
+	color: #F3C80A;
+}
+
+#link {
+    color: #2BF1EE;
+	background-color: #4F2823;
+	font-size: 50px;
+}
+
+#link:hover {
+	background-color: #AC76B2;
+	color: #F3C80A;
+	font-size: 50px;
+	text-align: center ;
+}
+
+#li {
+    color: #2BF1EE;
+	background-color: #4F2823;
+}
